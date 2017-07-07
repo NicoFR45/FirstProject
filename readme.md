@@ -14,3 +14,18 @@ $ git clone git://github.com/schacon/grit.git
 
 
 https://git-scm.com/book/fr/v1/Les-bases-de-Git-D%C3%A9marrer-un-d%C3%A9p%C3%B4t-Git
+
+
+
+Les étapes pour créer un nouveau commit :
+
+-Modifier le code source
+-Voir le statut de notre code
+-Valider le statut
+-Faire apparaître un message permettant de comprendre la modification
+
+Dans le terminal :
+
+git status 
+git add 'nomduficher'
+git commit -m 'notre message'
