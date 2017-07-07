@@ -26,6 +26,6 @@ Les étapes pour créer un nouveau commit :
 
 Dans le terminal :
 
-git status 
-git add 'nomduficher'
-git commit -m 'notre message'
+git status; 
+git add 'nomduficher';
+git commit -m 'notre message';
